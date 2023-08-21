@@ -1,6 +1,12 @@
 ### Hi there 👋
-### My Profile
-I'm an enthusiastic individual with a deep passion for technology and software engineering. With a keen interest in the world of technology, I constantly strive to expand my knowledge and skills in various programming languages, development methodologies, and cutting-edge tools. My goal is to transition into a full-time role as a software engineer, where I can leverage my creativity and problem-solving abilities to contribute to innovative software solutions.
+### My Profile-Sandeepa Charith
+I'm an enthusiastic individual with a deep passion for technology and software engineering. With a keen interest in the world of technology, I constantly strive to expand my knowledge and skills in various programming languages, development methodologies, and cutting-edge tools.
+
+My goal is to transition into a full-time role as a software engineer, where I can leverage my creativity and problem-solving abilities to contribute to innovative software solutions.
+
+
+
+
 
 <!--
 **SandeepaCharith23/SandeepaCharith23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
