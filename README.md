@@ -4,6 +4,8 @@ I'm an enthusiastic individual with a deep passion for technology and software e
 
 My goal is to transition into a full-time role as a software engineer, where I can leverage my creativity and problem-solving abilities to contribute to innovative software solutions.
 
+"The only person you should try to be better than is the person you were yesterday." - Unknown
+
 
 
 
